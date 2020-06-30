@@ -1,4 +1,4 @@
-# agendacontatosapp
+# agenda_contatos_app
 
 A new Flutter application.
 
